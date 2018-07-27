@@ -1,7 +1,7 @@
 import pickle
 import numpy as np
 import os
-from cs231n.knn.nearest_neighbor_classifier import NearestNeighbor
+from knn.nearest_neighbor_classifier import NearestNeighbor
 
 
 def load_cifar_batch(filename):
