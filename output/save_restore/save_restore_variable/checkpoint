@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/beiyan/Documents/Projects/machine_learning/features/../output/save_restore/save_restore_variable/model.ckpt"
+all_model_checkpoint_paths: "/Users/beiyan/Documents/Projects/machine_learning/features/../output/save_restore/save_restore_variable/model.ckpt"
