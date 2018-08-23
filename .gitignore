@@ -3,7 +3,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+.nn/cnn/gan/simple/data/
 # C extensions
 *.so
 .ipynb_checkpoints
